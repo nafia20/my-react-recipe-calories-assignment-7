@@ -1,0 +1,74 @@
+[
+  {
+    "recipe_id": "R001",
+    "recipe_name": "Grilled Chicken with Herbs",
+    "image": "https://i.ibb.co/pv4KTCdM/simple-grilled-chicken-marinade-9.jpg",
+    "description": "Juicy grilled chicken breasts seasoned with fresh herbs.",
+    "ingredients": ["550 g chicken", "2 tbsp olive oil", "1 tsp salt", "1 tsp black pepper", "2 tbsp mixed herbs"],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": "R002",
+    "recipe_name": "Creamy Mushroom Pasta",
+    "image": "https://i.ibb.co/Tqmsg9zQ/cream-mashroom-pasta.jpg",
+    "description": "Rich and creamy pasta made with fresh mushrooms and cheese.",
+    "ingredients": ["400 g pasta", "200 g mushroom", "100 ml cream", "1 onion", "2 cloves garlic"],
+    "preparing_time": "25 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": "R003",
+    "recipe_name": "Thai Basil Chicken",
+    "image": "https://i.ibb.co/HTNjc0ZF/thai-basil-chicken.jpg",
+    "description": "A spicy stir-fry with chicken and Thai basil leaves.",
+    "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "1 red chili", "2 tbsp fish sauce"],
+    "preparing_time": "20 min",
+    "calories": "370 calories"
+  },
+  {
+    "recipe_id": "R004",
+    "recipe_name": "Vegetable Stir Fry",
+    "image": "https://i.ibb.co/397Wbmr6/Veggie-Stir-Fry-Recipe.jpg",
+    "description": "A healthy mix of colorful vegetables stir-fried in sesame oil.",
+    "ingredients": ["100 g broccoli", "100 g carrots", "100 g bell pepper", "1 tbsp soy sauce", "1 tsp sesame oil"],
+    "preparing_time": "15 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": "R005",
+    "recipe_name": "Beef Tacos",
+    "image": "https://i.ibb.co/n8jgssQH/Mexican-fried-tacos-2.webp",
+    "description": "Crispy tacos filled with seasoned ground beef and fresh toppings.",
+    "ingredients": ["400 g ground beef", "6 taco shells", "100 g lettuce", "1 tomato", "50 g cheddar cheese"],
+    "preparing_time": "30 min",
+    "calories": "480 calories"
+  },
+  {
+    "recipe_id": "R006",
+    "recipe_name": "Lemon Garlic Salmon",
+    "image": "https://i.ibb.co/QtY7Lxn/honey-lemon-garlic-salmon-hero.jpg",
+    "description": "Oven-baked salmon fillets with lemon and garlic flavors.",
+    "ingredients": ["2 salmon fillets", "1 lemon", "2 cloves garlic", "1 tbsp olive oil", "1 tsp dill"],
+    "preparing_time": "25 min",
+    "calories": "360 calories"
+  },
+  {
+    "recipe_id": "R007",
+    "recipe_name": "Classic Pancakes",
+    "image": "https://i.ibb.co/27fGGzb4/Classic-Fluffy-Pancakes-5.jpg",
+    "description": "Fluffy pancakes served with maple syrup and butter.",
+    "ingredients": ["200 g flour", "1 egg", "300 ml milk", "2 tbsp sugar", "1 tsp baking powder"],
+    "preparing_time": "20 min",
+    "calories": "290 calories"
+  },
+  {
+    "recipe_id": "R008",
+    "recipe_name": "Chickpea Salad",
+    "image": "https://i.ibb.co/sJRvY0wg/Chickpea-Salad.jpg",
+    "description": "Refreshing salad made with chickpeas and vegetables.",
+    "ingredients": ["200 g chickpeas", "1 cucumber", "1 tomato", "1 tbsp lemon juice", "1 tbsp olive oil"],
+    "preparing_time": "10 min",
+    "calories": "230 calories"
+  }
+]
