@@ -4,7 +4,7 @@ import { SlFire } from "react-icons/sl";
 const Recipe = ({recipe , handleSideBar}) => {
     const { image , recipe_name, recipe_id,description,preparing_time, calories } = recipe;
     return (
-        <div className="grid border border-gray-400 rounded-2xl w-96 gap-10 p-10 mb-4">
+        <div className="grid border border-gray-400 rounded-2xl gap-10 p-10 mb-4">
             <img className="h-48 w-full object-cover " src={image} alt="" />
             <h2 className="font-semibold text-2xl">{recipe_name}</h2>
             <h3>Recipe ID: {recipe_id}</h3>
@@ -26,7 +26,7 @@ const Recipe = ({recipe , handleSideBar}) => {
             <p className="flex items-center"><SlFire /> {calories}</p>
 
             </div>
-            <button onClick={() => handleSideBar(recipe)} className=" border-2 bg-emerald-500 rounded-3xl font-semibold hover:bg-emerald-600">Want To cook</button>
+            <button onClick={() => handleSideBar(recipe)} className=" border-2 w-fit py-1 px-2 bg-emerald-500 rounded-3xl font-semibold hover:bg-emerald-600">Want To cook</button>
         </div>
     );
 };

@@ -42,12 +42,13 @@ function App() {
       <div className='grid gap-10 my-15'>
       <h1 className="font-bold text-4xl">Our Recipes</h1>
             <p>
-                This section displays the menu cards and allows customers to select items, which will then be prepared.
+                This section displays the menu cards and allows customers to select items, which will then be prepared.After they give their 
+                proper order, the chef will prepare the food and serve it to the customer.And it doneby a process...it will be added to the sidebar, where the customer can see their selected items.
             </p>
             </div>
 
-      <div className='md:flex gap-20 max-w-7xl mx-auto'>
-        <div className='flex gap-20'>
+      <div className='grid grid-cols-3 gap-5'>
+        <div className='col-span-2'>
         <RecipeCards handleSideBar= {handleSideBar}></RecipeCards>
         </div>
       <div className='border border-gray-200 p-5 rounded-2xl '>
